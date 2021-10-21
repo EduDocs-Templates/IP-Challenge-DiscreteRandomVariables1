@@ -6,7 +6,7 @@ Make sure you address these two questions.
 
 ### Action Items
 
-* __ Make__: Changes to code.
+* __Make__: Changes to code.
 * __Answer__: The two open questions within `challenge.ipynb`.
 * __Add__: Updated `challenge.ipynb` to repository.
 * __Commit and Push__: This file to GitHub.
