@@ -6,7 +6,7 @@ Make sure you address these two questions.
 
 ### Action Items
 
-* __Modify__: Code in `challenge.ipynb`.
+* __Modify__ and __Run__: Code in `challenge.ipynb`.
 * __Answer__: Questions in `challenge.ipynb`.
 * __Add__: Updated `challenge.ipynb` to repository.
 * __Commit and Push__: This file to GitHub.
